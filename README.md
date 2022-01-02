@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Hamdy Abd El Fattah
 #### A passionate Android Developer and Competitive Programmer who has a great  experience using Android SDK with Java & Kotlin programming languages, applies new  technologies and follow best practices to make the code clean, readable, usable and  efficient by using the best algorithm to solve the problem
 
-Skills: Android / Kotlin / Java / Jetpack / Data structure and Algorithms
+Skills: Android / Flutter / Kotlin / Java / Jetpack / Data structure and Algorithms
 
 - 💬 Ask me about Android Development 
 - 📫 How to reach me: HamdyAbdElFattah14@gmail.com 
