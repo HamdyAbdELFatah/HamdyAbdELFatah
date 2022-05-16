@@ -11,7 +11,7 @@ Skills: Android / Flutter / Kotlin / Java / Jetpack / Data structure and Algorit
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Samples from my projects***
 
-<img align="right" src="https://raw.githubusercontent.com/HamdyAbdELFatah/Show-Time/master/Screen/Home.png" alt="Show Time" style="height: 450px; width:250px;" />
+<img align="right" src="https://raw.githubusercontent.com/HamdyAbdELFatah/Show-Time/master/Screen/Home.png" alt="Show Time" style="height: 490px; width:250px;" />
 
 ### Show Time
 A “Show Time” application lets users Discover New Movies, manage their favorite shows, and discover top-rated Movie.<br />
