@@ -14,6 +14,12 @@ Skills: Android / Flutter / Kotlin / Java / Jetpack / Data structure and Algorit
 <img src="https://raw.githubusercontent.com/HamdyAbdELFatah/Show-Time/master/Screen/Home.png" alt="Show Time" style="height: 400px; width:200px;"/>
 </div>
 
+<img
+  align="right"
+  width="200"
+  height="400"
+  src="https://raw.githubusercontent.com/HamdyAbdELFatah/Show-Time/master/Screen/Home.png"
+>
 ### Show Time
 A “Show Time” application lets users Discover New Movies, manage their favorite shows, and discover top-rated Movie.<br />
 
@@ -26,7 +32,7 @@ A “Show Time” application lets users Discover New Movies, manage their favor
 - Coroutines
 - Retrofit
 - Repository pattern
-- Coil - An image loading library for Android backed by Kotlin Coroutines.
+- Coil
 - ExoPlayer
 <p></a> <a href="https://github.com/HamdyAbdELFatah/Show-Time" target="_blank"><img alt="Repository" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.svg" style="height: 50px; width:140px;"/> </a><p>
 <hr>
