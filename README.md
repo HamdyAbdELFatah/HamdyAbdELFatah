@@ -37,9 +37,9 @@ A “Show Time” application lets users Discover New Movies, manage their favor
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HamdyAbdELFatah&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="350" height ="130"/></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=HamdyAbdELFatah&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="350" /></p>
-<br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HamdyAbdELFatah&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="350" height ="130"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=HamdyAbdELFatah&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="350" /></p>
+
 
 
 
