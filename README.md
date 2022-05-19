@@ -12,8 +12,8 @@ Skills: Android / Flutter / Kotlin / Java / Jetpack / Data structure and Algorit
 <hr>
 <p>
 <img src="https://media2.giphy.com/media/NLDzulOiZMnPzahkoU/giphy.gif" width="90px">
-<img align="right"src="https://media2.giphy.com/media/NLDzulOiZMnPzahkoU/giphy.gif" width="90px">
- </p>
+<img align="right" src="https://media2.giphy.com/media/NLDzulOiZMnPzahkoU/giphy.gif" width="90px">
+</p>
 <img align="right" src="https://raw.githubusercontent.com/HamdyAbdELFatah/Show-Time/master/Screen/Home.png" alt="Show Time" style="height: 490px; width:250px;" />
 
 ### Show Time
