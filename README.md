@@ -11,10 +11,11 @@ Skills: Android / Flutter / Kotlin / Java / Jetpack / Data structure and Algorit
 <img src="https://komarev.com/ghpvc/?username=HamdyAbdELFatah&color=blueviolet" alt="watching_count" width="140px" />
 <hr>
 <p>
-<img src="https://media2.giphy.com/media/NLDzulOiZMnPzahkoU/giphy.gif" width="90px">
-<img align="right" src="https://media2.giphy.com/media/NLDzulOiZMnPzahkoU/giphy.gif" width="90px">
+<img src="https://media2.giphy.com/media/NLDzulOiZMnPzahkoU/giphy.gif" alt="My Work" width="90px">
+<img align="right" src="https://media2.giphy.com/media/NLDzulOiZMnPzahkoU/giphy.gif" alt="My Work" width="90px">
 </p>
-<img align="right" src="https://raw.githubusercontent.com/HamdyAbdELFatah/Show-Time/master/Screen/Home.png" alt="Show Time" style="height: 490px; width:250px;" />
+
+<img align="right" src="https://raw.githubusercontent.com/HamdyAbdELFatah/Show-Time/master/Screen/Home.png" alt="Show Time" style="height: 490px; width:230px;" />
 
 ### Show Time
 A “Show Time” application lets users Discover New Movies, manage their favorite shows, and discover top-rated Movie.<br />
