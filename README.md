@@ -1,5 +1,5 @@
-## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Hamdy Abd El Fattah
-<img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20px">&nbsp;***About me ....***
+## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height ="30px">, I'm Hamdy Abd El Fattah
+<img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="30px" height ="30px">&nbsp;***About me ....***
 ###### A passionate Android Developer and Competitive Programmer who has a great  experience using Android SDK with Java & Kotlin programming languages, applies new  technologies and follow best practices to make the code clean, readable, usable and  efficient by using the best algorithm to solve the problem
 
 Skills: Android / Flutter / Kotlin / Java / Jetpack / Data structure and Algorithms
@@ -11,8 +11,8 @@ Skills: Android / Flutter / Kotlin / Java / Jetpack / Data structure and Algorit
 <img src="https://komarev.com/ghpvc/?username=HamdyAbdELFatah&color=blueviolet" alt="watching_count" width="140px" />
 <hr>
 <p>
-<img src="https://media2.giphy.com/media/NLDzulOiZMnPzahkoU/giphy.gif" alt="My Work" width="90px">
-<img align="right" src="https://media2.giphy.com/media/NLDzulOiZMnPzahkoU/giphy.gif" alt="My Work" width="90px">
+<img src="https://media2.giphy.com/media/NLDzulOiZMnPzahkoU/giphy.gif" alt="My Work" width="90px" height="90px">
+<img align="right" src="https://media2.giphy.com/media/NLDzulOiZMnPzahkoU/giphy.gif" alt="My Work" width="90px" height="90px">
 </p>
 
 <img align="right" src="https://raw.githubusercontent.com/HamdyAbdELFatah/Show-Time/master/Screen/Home.png" alt="Show Time" style="height: 490px; width:230px;" />
@@ -36,7 +36,7 @@ A “Show Time” application lets users Discover New Movies, manage their favor
 <hr>
 
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="50px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HamdyAbdELFatah&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="230px"/>
