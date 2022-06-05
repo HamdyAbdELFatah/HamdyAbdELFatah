@@ -15,6 +15,31 @@ Skills: Android / Flutter / Kotlin / Java / Jetpack / Data structure and Algorit
 <img align="right" src="https://media2.giphy.com/media/NLDzulOiZMnPzahkoU/giphy.gif" alt="My Work" width="90px" height="90px">
 </p>
 
+
+<img align="right" src="https://raw.githubusercontent.com/HamdyAbdELFatah/Beauty/master/Screens/home.png" alt="Beauty" style="height: 490px; width:230px;" />
+
+### Beauty
+A “Beauty” is online platform to sell Makeup.It showcase Makeup in different category like Lipstick, Eyeliner, Blush etc.
+<br />
+
+#### Developed with
+- Kotlin
+- Jetpack Compose
+- Hilt 
+- Coroutines
+- Clean architecture
+- MVVM architecture
+- viewBinding
+- Retrofit
+- Repository pattern
+- Android architecture components
+- Firebase
+- Coil - An image loading library for Android backed by Kotlin Coroutines.
+<br>
+
+<p></a> <a href="https://github.com/HamdyAbdELFatah/Show-Time" target="_blank"><img alt="Repository" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.svg" style="height: 65px; width:160px;"/> </a><p>
+
+<hr>
 <img align="right" src="https://raw.githubusercontent.com/HamdyAbdELFatah/Show-Time/master/Screen/Home.png" alt="Show Time" style="height: 490px; width:230px;" />
 
 ### Show Time
