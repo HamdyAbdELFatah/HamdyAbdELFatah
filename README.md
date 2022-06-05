@@ -37,7 +37,7 @@ A “Beauty” is online platform to sell Makeup.It showcase Makeup in different
 - Coil - An image loading library for Android backed by Kotlin Coroutines.
 <br>
 
-<p></a> <a href="https://github.com/HamdyAbdELFatah/Show-Time" target="_blank"><img alt="Repository" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.svg" style="height: 65px; width:160px;"/> </a><p>
+<p></a> <a href="https://github.com/HamdyAbdELFatah/Beauty" target="_blank"><img alt="Repository" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.svg" style="height: 65px; width:160px;"/> </a><p>
 
 <hr>
 <img align="right" src="https://raw.githubusercontent.com/HamdyAbdELFatah/Show-Time/master/Screen/Home.png" alt="Show Time" style="height: 490px; width:230px;" />
