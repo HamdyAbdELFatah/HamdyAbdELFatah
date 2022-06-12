@@ -26,15 +26,14 @@ A “Beauty” is online platform to sell Makeup.It showcase Makeup in different
 - Kotlin
 - Jetpack Compose
 - Hilt 
+- MVI architecture
 - Coroutines
 - Clean architecture
-- MVVM architecture
 - viewBinding
 - Retrofit
 - Repository pattern
 - Android architecture components
 - Firebase
-- Coil
 <br>
 
 <p></a> <a href="https://github.com/HamdyAbdELFatah/Beauty" target="_blank"><img alt="Repository" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.svg" style="height: 65px; width:160px;"/> </a><p>
@@ -54,8 +53,8 @@ A “Show Time” application lets users Discover New Movies, manage their favor
 - Coroutines
 - Retrofit
 - Repository pattern
-- Coil
-- ExoPlayer<br>
+- ExoPlayer
+<br>
 
 <p></a> <a href="https://github.com/HamdyAbdELFatah/Show-Time" target="_blank"><img alt="Repository" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.svg" style="height: 65px; width:160px;"/> </a><p>
 <hr>
