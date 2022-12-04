@@ -29,7 +29,6 @@ A “Beauty” is online platform to sell Makeup.It showcase Makeup in different
 - MVI architecture
 - Coroutines
 - Clean architecture
-- viewBinding
 - Retrofit
 - Repository pattern
 - Android architecture components
