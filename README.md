@@ -25,7 +25,7 @@ Skills: Android / Flutter / Kotlin / Java / Jetpack / Data structure and Algorit
 #### Developed with
 - Kotlin
 - Hilt 
-- MVI architecture
+- MVVM architecture
 - Coroutines
 - Clean architecture
 - Retrofit
@@ -47,7 +47,7 @@ a solid foundation that inspires everyone, simplifies, and improves people's liv
 #### Developed with
 - Kotlin
 - Hilt 
-- MVI architecture
+- MVVM architecture
 - Coroutines
 - Clean architecture
 - Google Map
@@ -73,7 +73,7 @@ a solid foundation that inspires everyone, simplifies, and improves people's liv
 #### Developed with
 - Kotlin
 - Hilt 
-- MVI architecture
+- MVVM architecture
 - Coroutines
 - Clean architecture
 - Google Map
