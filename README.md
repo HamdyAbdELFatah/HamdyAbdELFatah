@@ -16,7 +16,7 @@ Skills: Android / Flutter / Kotlin / Java / Jetpack / Data structure and Algorit
 </p>
 
 
-<img align="right" src="https://play-lh.googleusercontent.com/Jy9gJ8-DlM016VouoGcS8m3ilGq075mjOoTXYrEPG427JlruHzrv1YtjOT00-kzGAm3G=w2560-h1440-rw" alt="Dukan" style="height: 490px; width:230px;" />
+<img align="right" src="https://play-lh.googleusercontent.com/Jy9gJ8-DlM016VouoGcS8m3ilGq075mjOoTXYrEPG427JlruHzrv1YtjOT00-kzGAm3G=w2560-h1440-rw" alt="Dukan" style="height: 440px; width:230px;" />
 
 ### Dukan
  Dukan offers a variety of food products and daily offers in the branches affiliated with 79 in Jeddah, Makkah, and Taif.
@@ -31,17 +31,17 @@ Skills: Android / Flutter / Kotlin / Java / Jetpack / Data structure and Algorit
 - Retrofit
 - Repository pattern
 - Android architecture components
-<br>
 
 <p></a> <a href="https://play.google.com/store/apps/details?id=com.tstl.dukan" target="_blank"><img alt="Repository" src="https://reefcentral.pt/wp-content/uploads/2019/04/get-on-google-play.png" style="height: 65px; width:160px;"/> </a><p>
-
 <hr>
 
 
-<img align="right" src="https://github.com/HamdyAbdELFatah/HamdyAbdELFatah/assets/43134132/2e0c9a85-91b9-4305-9157-ba2cca9cced3" alt="Dukan" style="height: 490px; width:230px;" />
+
+<img align="right" src="https://github.com/HamdyAbdELFatah/HamdyAbdELFatah/assets/43134132/2e0c9a85-91b9-4305-9157-ba2cca9cced3" alt="Bro" style="height: 420px; width:230px;" />
 
 ### Bro
- Dukan offers a variety of food products and daily offers in the branches affiliated with 79 in Jeddah, Makkah, and Taif.
+ Bro application specializes in individual delivery services, we strive through the pro delivery application to build 
+a solid foundation that inspires everyone, simplifies, and improves people's lives.
 <br />
 
 #### Developed with
@@ -55,17 +55,114 @@ Skills: Android / Flutter / Kotlin / Java / Jetpack / Data structure and Algorit
 - Retrofit
 - Repository pattern
 - Android architecture components
-<br>
+
 
 <p></a> <a href="https://play.google.com/store/apps/details?id=com.bro.driver" target="_blank"><img alt="Repository" src="https://reefcentral.pt/wp-content/uploads/2019/04/get-on-google-play.png" style="height: 65px; width:160px;"/> </a>
 </a> <a href="https://appgallery.huawei.com/app/C107773939" target="_blank"><img alt="Repository" src="https://github.com/HamdyAbdELFatah/HamdyAbdELFatah/assets/43134132/dc0e6575-7ace-43e1-9f98-1cd4ad4f327d" style="height: 65px; width:160px;"/> </a><p>
+<hr>
 
+
+<img align="right" src="https://play-lh.googleusercontent.com/gEVsGv2-X_vv9wVZu9uk0f93HIukirB5AhrAe0UvXFAzDGYPidg8asOG3_4tVFBIeA=w2560-h1440-rw" alt="Captain One" style="height: 490px; width:230px;" />
+
+### Captain One
+ Captain One is the best delivery application for rides in the Kingdom of Saudi Arabia, Captain One was designed 
+ to be the best delivery application for him in all his movements on a daily basis
+
+<br />
+
+#### Developed with
+- Kotlin
+- Hilt 
+- MVI architecture
+- Coroutines
+- Clean architecture
+- Google Map
+- Huawei Map
+- Retrofit
+- Repository pattern
+- Android architecture components
+
+<p></a> <a href="https://play.google.com/store/apps/details?id=com.app.captainone" target="_blank"><img alt="Repository" src="https://reefcentral.pt/wp-content/uploads/2019/04/get-on-google-play.png" style="height: 65px; width:160px;"/> </a>
+</a> <a href="https://appgallery.huawei.com/app/C107271397" target="_blank"><img alt="Repository" src="https://github.com/HamdyAbdELFatah/HamdyAbdELFatah/assets/43134132/dc0e6575-7ace-43e1-9f98-1cd4ad4f327d" style="height: 65px; width:160px;"/> </a><p>
+<hr>
+
+
+<img align="right" src="https://play-lh.googleusercontent.com/RdNMGLI-yOZqkBdSIGloRjHWi1bifDWSYXxN4FpAmoUL_0m_fGhaMzG4MByRu3raFVU=w2560-h1440-rw" alt="Talab" style="height: 440px; width:230px;" />
+
+### Talab
+ Talab is an application for e-commerce and shopping.
+
+<br />
+
+#### Developed with
+- Kotlin
+- Hilt 
+- MVI architecture
+- Coroutines
+- Clean architecture
+- Google Map
+- Retrofit
+- Repository pattern
+- Android architecture components
+
+<p></a> <a href="https://play.google.com/store/apps/details?id=net.moltaqa.talab_client" target="_blank"><img alt="Repository" src="https://reefcentral.pt/wp-content/uploads/2019/04/get-on-google-play.png" style="height: 65px; width:160px;"/> </a><p>
+<hr>
+
+
+<img align="right" src="https://play-lh.googleusercontent.com/ZNdnndKJ1UACDa-WM1pGVO5PrPWYOTyxc2FodGYtaEGrZhGy-rxKBGa3o3jycuBej4I=w2560-h1440-rw" alt="Everdeliver" style="height: 440px; width:230px;" />
+
+### Everdeliver
+  an application that serves you and meets your requests. A variety of restaurants and stores offer the products you 
+ need, and the list increases every day with dozens.
+
+<br />
+
+#### Developed with
+- Kotlin
+- Hilt 
+- MVVM architecture
+- Coroutines
+- Clean architecture
+- Google Map
+- Retrofit
+- Repository pattern
+- Android architecture components
+<br>
+
+<p></a> <a href="https://play.google.com/store/apps/details?id=com.moltaqa.everdeliver.client" target="_blank"><img alt="Repository" src="https://reefcentral.pt/wp-content/uploads/2019/04/get-on-google-play.png" style="height: 65px; width:160px;"/> </a><p>
+<br>
+<hr>
+
+
+<img align="right" src="https://play-lh.googleusercontent.com/7iol0frkicnHTIJfoJeInIkyGmBK_03WnZ31FjqtIryfBBS7qs496rXo0A07P8Vj_S4=w2560-h1440-rw" alt="Siyankom" style="height: 440px; width:230px;" />
+
+### Siyankom
+ This application to A comprehensive solution for accurate and professional home maintenance, connecting users 
+ with skilled technicians in electricity, air conditioning, and plumbing.
+
+
+<br />
+
+#### Developed with
+- Kotlin
+- Hilt 
+- MVVM architecture
+- Coroutines
+- Clean architecture
+- Google Map
+- Retrofit
+- Repository pattern
+- Android architecture components
+<br>
+
+<p></a> <a href="https://play.google.com/store/apps/details?id=com.moltaqaa.siyankom.android" target="_blank"><img alt="Repository" src="https://reefcentral.pt/wp-content/uploads/2019/04/get-on-google-play.png" style="height: 65px; width:160px;"/> </a><p>
+<br>
 <hr>
 
 <img align="right" src="https://raw.githubusercontent.com/HamdyAbdELFatah/Beauty/master/Screens/home.png" alt="Beauty" style="height: 490px; width:230px;" />
 
 ### Beauty
-A “Beauty” is online platform to sell Makeup.It showcase Makeup in different category like Lipstick, Eyeliner, Blush etc.
+A “Beauty” is an online platform to sell Makeup. It showcases Makeup in different categories like Lipstick, Eyeliner, Blush, etc.
 <br />
 
 #### Developed with
