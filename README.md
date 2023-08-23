@@ -2,7 +2,7 @@
 <img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="30px" height ="30px">&nbsp;***About me ....***
 ###### A passionate Android Developer and Competitive Programmer who has a great  experience using Android SDK with Java & Kotlin programming languages, applies new  technologies and follow best practices to make the code clean, readable, usable and  efficient by using the best algorithm to solve the problem
 
-Skills: Android / Flutter / Kotlin / Java / Jetpack / Data structure and Algorithms
+Skills: Android / Flutter / Kotlin / Java / Jetpack / kMP / Data structure and Algorithms
 
 - 💬 Ask me about Android Development 
 - 📫 How to reach me: HamdyAbdElFattah14@gmail.com 
