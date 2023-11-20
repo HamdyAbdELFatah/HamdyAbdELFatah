@@ -18,7 +18,7 @@ Skills: Android / Flutter / Kotlin / Java / Jetpack / kMP / Data structure and A
 
 <img align="right" src="https://play-lh.googleusercontent.com/hzilfS9KAYFz9DpASj0QdRZZlWqzYp1_-ZPBSIDyTMqOd7dkYoUZ8AWcppiLDMImuw=w2560-h1440-rw" alt="GoMini" style="height: 440px; width:230px;" />
 
-### GoMini
+### GoMini       ⭐⭐⭐`[100K download]`⭐⭐⭐
 The future of mobility is upon us, and a smart plan to alleviate traffic embraces ride-sharing solutions including creating incentives to share a ride through mobile app services and providing dynamically-routed shuttles that arrive when passengers call for trips that public transportation doesn't serve well.<br />
 
 #### Developed with
@@ -39,7 +39,7 @@ The future of mobility is upon us, and a smart plan to alleviate traffic embrace
  
 <img align="right" src="https://play-lh.googleusercontent.com/Jy9gJ8-DlM016VouoGcS8m3ilGq075mjOoTXYrEPG427JlruHzrv1YtjOT00-kzGAm3G=w2560-h1440-rw" alt="Dukan" style="height: 440px; width:230px;" />
 
-### Dukan
+### Dukan ⭐⭐⭐`[50K download]`⭐⭐⭐
  Dukan offers a variety of food products and daily offers in the branches affiliated with 79 in Jeddah, Makkah, and Taif.
 <br />
 
