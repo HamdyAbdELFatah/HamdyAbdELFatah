@@ -16,6 +16,27 @@ Skills: Android / Flutter / Kotlin / Java / Jetpack / kMP / Data structure and A
 </p>
 
 
+<img align="right" src="https://play-lh.googleusercontent.com/hzilfS9KAYFz9DpASj0QdRZZlWqzYp1_-ZPBSIDyTMqOd7dkYoUZ8AWcppiLDMImuw=w2560-h1440-rw" alt="GoMini" style="height: 440px; width:230px;" />
+
+### GoMini
+The future of mobility is upon us, and a smart plan to alleviate traffic embraces ride-sharing solutions including creating incentives to share a ride through mobile app services and providing dynamically-routed shuttles that arrive when passengers call for trips that public transportation doesn't serve well.<br />
+
+#### Developed with
+- Kotlin
+- Hilt 
+- MVI architecture
+- Coroutines
+- Clean architecture
+- Retrofit
+- Repository pattern
+- Android architecture components
+
+<p></a> <a href="https://play.google.com/store/apps/details?id=com.gomini.gominipassenger" target="_blank"><img alt="Repository" src="https://reefcentral.pt/wp-content/uploads/2019/04/get-on-google-play.png" style="height: 65px; width:160px;"/> </a>
+</a> <a href="https://appgallery.huawei.com/app/C103207229" target="_blank"><img alt="Repository" src="https://github.com/HamdyAbdELFatah/HamdyAbdELFatah/assets/43134132/dc0e6575-7ace-43e1-9f98-1cd4ad4f327d" style="height: 65px; width:160px;"/> </a><p>
+<hr>
+<p>
+<hr>
+ 
 <img align="right" src="https://play-lh.googleusercontent.com/Jy9gJ8-DlM016VouoGcS8m3ilGq075mjOoTXYrEPG427JlruHzrv1YtjOT00-kzGAm3G=w2560-h1440-rw" alt="Dukan" style="height: 440px; width:230px;" />
 
 ### Dukan
