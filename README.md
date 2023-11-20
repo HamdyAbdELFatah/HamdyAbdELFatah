@@ -33,7 +33,6 @@ The future of mobility is upon us, and a smart plan to alleviate traffic embrace
 
 <p></a> <a href="https://play.google.com/store/apps/details?id=com.gomini.gominipassenger" target="_blank"><img alt="Repository" src="https://reefcentral.pt/wp-content/uploads/2019/04/get-on-google-play.png" style="height: 65px; width:160px;"/> </a>
 </a> <a href="https://appgallery.huawei.com/app/C103207229" target="_blank"><img alt="Repository" src="https://github.com/HamdyAbdELFatah/HamdyAbdELFatah/assets/43134132/dc0e6575-7ace-43e1-9f98-1cd4ad4f327d" style="height: 65px; width:160px;"/> </a><p>
-<hr>
 <p>
 <hr>
  
